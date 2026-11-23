@@ -1,3 +1,3 @@
 <?php
-    require 'controller/filemController.php';
+    require 'controller/filmeController.php';
 ?>
